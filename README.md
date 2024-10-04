@@ -1,4 +1,6 @@
-Gesture Control Car with MPU6050 and ESP-NOW using ESP32
+Gesture Control Car with MPU6050 and ESP-NOW using ESP32:-
+
+
 This project demonstrates a Gesture-Controlled Car using an MPU6050 accelerometer and gyroscope sensor for motion detection, and two ESP32 microcontrollers for wireless communication using the ESP-NOW protocol. One ESP32 reads the gestures and sends the data to the other ESP32, which controls the motors of the car accordingly.
 
 Overview
